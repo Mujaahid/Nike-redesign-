@@ -144,7 +144,6 @@ body {
 .shadow-three {
     display: none;
 }
-/* Animation */
 @keyframes blue-ball-one {
     0% {
         top: 114px;
@@ -155,7 +154,6 @@ body {
     100% {
         top: 114px;
     }
-    
 }
 @keyframes blue-ball-two {
     0% {
@@ -179,7 +177,6 @@ body {
     100% {
         bottom: 85px;
     }
-    
 }
 @keyframes ball-one {
     0% {
@@ -190,8 +187,7 @@ body {
     }
     100% {
         top: 114px;
-    }
-    
+    }   
 }
 @keyframes orange-ball-two {
     0% {
@@ -215,8 +211,6 @@ body {
         transform: translate(375px, 502px);
     }
 }
-/* Animation */
-/* Slide Two */
 .shoe-details {
     grid-row: 2/3;
     grid-column: 1/3;
