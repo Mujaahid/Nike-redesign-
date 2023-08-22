@@ -100,13 +100,10 @@ body {
     max-width: 230px;
     left: 136px;
     top: 241px;
-    /* animation: ball-one 13s ease-in-out infinite; */
 }
 .orange-ball {
     display: none;
 }
-/* Orange Balls */
-/* Blue Balls */
 .blue-ball-one {
     display: none;
 }
@@ -124,7 +121,6 @@ body {
     max-width: 200px;
     animation: blue-ball-three 11s ease-in-out infinite;
 }
-/* Blue Balls */
 .green-ball-one {
     display: none;
 }
